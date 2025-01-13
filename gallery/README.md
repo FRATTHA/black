@@ -5,7 +5,8 @@ a selected PyPI package and seeing the results between _Black_ versions.
 
 ## Build
 
-```console
+```consolegallery.py
+
 $ docker build -t black_gallery .
 ```
 
